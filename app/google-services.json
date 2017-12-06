@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141231601734",
+    "firebase_url": "https://androidfirebasechat-mast-229f9.firebaseio.com",
+    "project_id": "androidfirebasechat-mast-229f9",
+    "storage_bucket": "androidfirebasechat-mast-229f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141231601734:android:5a0f4cdc888fb7a4",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141231601734-2ku49s48ob6an15g3lb4692utqjrs5ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-wWyXPNn8TqZLirY9WYvg3ReL-2dVEdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
